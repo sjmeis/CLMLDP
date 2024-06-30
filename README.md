@@ -5,7 +5,7 @@ Code for the PrivateNLP 2024 paper: *A Collocation-based Method for Addressing C
 In this repository, you will find the following items:
 
 - `CollocationExtractor.py`: class code for the GST and MST algorithms, as described in the paper
-- `MLDP.py`: code for running MLDP mechanisms
+- `MLDP.py`: code for running MLDP mechanisms, based on the code from [this code repository](https://github.com/sjmeis/MLDP).
 - `data`: folder containing the data for bigram and trigram collocation extraction
 
 In addition, we make our two trained embedding models public. Due to their large size, they must be downloaded at the following link: https://drive.google.com/drive/folders/1b_2QNSBBtmCuUAOLrQ2ZK41cKqHY-o-s?usp=sharing.
