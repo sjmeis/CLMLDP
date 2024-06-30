@@ -1,5 +1,5 @@
 # Collocation Extractor
-Code for the anonymous PrivateNLP submission: *A Collocation-based Method for Addressing Challenges in Word-level Metric Differential Privacy*
+Code for the PrivateNLP 2024 paper: *A Collocation-based Method for Addressing Challenges in Word-level Metric Differential Privacy*
 
 ## Getting Started
 In this repository, you will find the following items:
